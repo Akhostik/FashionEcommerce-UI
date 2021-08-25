@@ -1,10 +1,5 @@
-# flutter_app7
-
-A new Flutter application.
-
+# FashionEcommerce-UI
 ## About
-
-About
 An ecommerce app (UI) built with flutter. You can make orders, buy fairly used and new clothes at cheap rates!
 
 Feel free to make any adjustments, corrections and modifications to the UI.
