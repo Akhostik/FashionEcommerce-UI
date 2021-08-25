@@ -2,15 +2,19 @@
 
 A new Flutter application.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+About
+An ecommerce app (UI) built with flutter. You can make orders, buy fairly used and new clothes at cheap rates!
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to make any adjustments, corrections and modifications to the UI.
+Package(s) Used.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* [Carousel Slider](https://pub.dev/packages/carousel_slider)- go through the documentation to see how to use the package.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+Follow me on Social media:
+Facebook -Shalom Akos Instagram - akhostik Twitter - akhostik
